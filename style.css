@@ -1,10 +1,12 @@
 .note{
-    text-align: left;
     background-color: #f0f8ff;
     border-style: solid;
     border-left-width: 15px;
     border-color: cornflowerblue;
     border-radius: 20px;
-    padding: 32px 24px;
+    padding: 32px 48px;
     margin-bottom: 120px;
+}
+.align{
+    text-align: left;
 }
